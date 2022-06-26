@@ -87,11 +87,13 @@ button:hover{
     .backpattern{
         width: 230px;
         height: 300px;
+        margin-left: 100px;
+        /* position: relative; */
     }
     .testimonials1{
         width: 250px;
         margin-bottom: 100px;
-        margin-left: 130px;
+        margin-left: 58px;
         position: relative;
     }
     .depoiment{
@@ -110,7 +112,7 @@ button:hover{
     }
     .quotes{
         margin-top: 350px;
-        margin-left: 40%;
+        margin-left: 35%;
     }
     .attribution{
         margin-top: 50px;
@@ -119,13 +121,15 @@ button:hover{
         margin-left: 5px;
     }
     .prevbutton{
-        margin-top: 270px;
-        width: 50px;
-        margin-left: 200px;
+        margin-top: 260px;
+        width: 40px;
+        height: 35px;
+        margin-left: 130px;
     }
     .nextbutton{
-        margin-top: 270px;
-        width: 50px;
-        margin-left: 240px;
+        margin-top: 260px;
+        width: 40px;
+        height: 35px;
+        margin-left: 170px;
     }
 }
